@@ -11,3 +11,5 @@ cd Vendor
 python manage.py makemigrations
 python manage.py migrate
 ```
+
+Please refer to vendorApiEndpoints.html file for API Documentaions and Endpoints
